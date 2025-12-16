@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Portfolio of Thomas Balbach, KU Leuven"
+title: "Summary"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,4 +16,5 @@ Grounded in pragmatist research philosophy, I mainly apply two kinds of methods:
 I hold a Master of Science in Public Sector Innovation and eGovernance from KU Leuven, Münster University and TalTech, graduating summa cum laude with the congratulations of the examination committee. I hold a Bachelor of Arts in Political Science from the Otto Suhr Institute at Freie Universität Berlin, including an Erasmus year at University College London. 
 
 Prior to my PhD, I worked as an analyst on large-scale IT projects at national and European Union authorities and as a business developer at a GovTech startup. This is where I got to know government contracting first-hand.
+
 
