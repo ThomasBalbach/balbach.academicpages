@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Thomas Balbach"
+title                    : "Willkommen, bienvenue, welcome!"
 title_separator          : "-"
 name                     : &name "Thomas Balbach"
 description              : &description "Thomas Balbach's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,9 +24,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Thomas Balbach"
   pronouns         : # example: "he/him/they"  
-  bio              : "I am a PhD candidate at KU Leuven, supervised by Professor Steven Van de Walle and embedded in the DemoTrans project (expected graduation: September/December 2026). In my dissertation, I study how government contracts for policy goals in Belgium, Germany, and the United States. I analyze big procurement data and conduct experiments. "
+  bio              : "I am a PhD candidate at KU Leuven, supervised by Professor Steven Van de Walle. 
+  I study how government contracts for policy goals in Belgium, Germany, and the United States, with big procurement data and conduct experiments."
   location         : "Leuven, Belgium"
   employer         : "KU Leuven"
   uri              : # URL
