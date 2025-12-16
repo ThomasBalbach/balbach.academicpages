@@ -8,10 +8,5 @@ var addressPoints = [
     "Informational session: PIONEER programme<br />KU Leuven; Leuven, Belgium",
     50.879202,
     4.7011675
-  ],
-  [
-    "Pitch: CitizenLab at INTERGEO 2017<br />INTERGEO 2017; Berlin, Germany",
-    52.5173885,
-    13.3951309
   ]
 ];
