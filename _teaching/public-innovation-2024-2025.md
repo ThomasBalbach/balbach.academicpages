@@ -9,3 +9,5 @@ location: "Leuven, Belgium"
 ---
 
 Marking assignments and providing individual feedback. Mentoring selected students on their master thesis journey. 
+
+This class is taught in English.
