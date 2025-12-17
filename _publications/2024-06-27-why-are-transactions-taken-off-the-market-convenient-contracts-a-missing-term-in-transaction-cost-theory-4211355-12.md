@@ -9,4 +9,4 @@ publication_type_raw: Abstract/Presentation/Poster
 citation: Balbach T (2024). Why are transactions taken off the market? Convenient contracts - a missing term in transaction cost theory.. Public Management Research Conference.
 ---
 
-Recommended citation: Balbach T (2024). Why are transactions taken off the market? Convenient contracts - a missing term in transaction cost theory.. Public Management Research Conference.
+
