@@ -8,5 +8,3 @@ category: articles
 publication_type_raw: Journal article
 citation: Van de Walle S, Crompvoets J, Balbach T, Becker J, Brandt T, Clever L, Räckers M, Villena-Tagle C, Juuse E, Lember V (2025). Translating between public administration and the digital. A study on the motivation and choices of digital governance students. Information Polity.
 ---
-
-Recommended citation: Van de Walle S, Crompvoets J, Balbach T, Becker J, Brandt T, Clever L, Räckers M, Villena-Tagle C, Juuse E, Lember V (2025). Translating between public administration and the digital. A study on the motivation and choices of digital governance students. Information Polity.
