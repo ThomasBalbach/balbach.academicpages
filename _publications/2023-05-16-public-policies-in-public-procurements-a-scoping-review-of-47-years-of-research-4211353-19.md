@@ -8,5 +8,3 @@ category: conferences
 publication_type_raw: Abstract/Presentation/Poster
 citation: Balbach T (2023). Public policies in public procurements. A scoping review of 47 years of research.. Interdisciplinary Public Procurement PhD Forum 2023.
 ---
-
-Recommended citation: Balbach T (2023). Public policies in public procurements. A scoping review of 47 years of research.. Interdisciplinary Public Procurement PhD Forum 2023.
