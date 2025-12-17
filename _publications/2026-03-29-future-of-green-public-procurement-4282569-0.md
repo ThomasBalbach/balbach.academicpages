@@ -9,4 +9,3 @@ publication_type_raw: Book Chapter
 citation: 'Plaček M, Rosell J, Howlett M, Migone A, Howlett A, Darnall N, Nemec J, Drechsler W, Dimand AM, Balbach T, Angelov N, Davis N, Fojtík R, Paswan P (2026). Future of Green Public Procurement. Green Public Procurement : Global Insights, National Strategies, and Future Directions for Sustainable Governance.'
 ---
 
-Recommended citation: Plaček M, Rosell J, Howlett M, Migone A, Howlett A, Darnall N, Nemec J, Drechsler W, Dimand AM, Balbach T, Angelov N, Davis N, Fojtík R, Paswan P (2026). Future of Green Public Procurement. Green Public Procurement : Global Insights, National Strategies, and Future Directions for Sustainable Governance.
